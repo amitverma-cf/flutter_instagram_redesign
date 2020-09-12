@@ -7,7 +7,7 @@ A Redesigned Instagram UI using Flutter.
 All design credit goes to [Manuel Rovira](https://dribbble.com/ManuelRovira) 
 For making this lovely [design.](https://dribbble.com/shots/14057207-Instagram-Redesign-Part-2)
 
-![Instagram Design](./assets/app_ss/cool.mp4)
+![Instagram Design](https://static.dribbble.com/users/1612753/screenshots/14057207/media/d7313500e0759e5da3198a220d483ea1.png)
 
 ## Results
 
