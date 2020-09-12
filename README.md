@@ -21,9 +21,9 @@ for making this lovely [design.](https://dribbble.com/shots/14057207-Instagram-R
 
 ## Support
 
-![Amit Verma](https://github.com/amitverma-cf)
-![Instagram](https://www.instagram.com/ava.amitverma/)  
-![LinkedIn](https://www.linkedin.com/in/amit-verma-962b12197/)
+![Amit Verma](https://github.com/amitverma-cf) <br>
+[Instagram](https://www.instagram.com/ava.amitverma/) <br>
+[LinkedIn](https://www.linkedin.com/in/amit-verma-962b12197/)
 
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
 >
