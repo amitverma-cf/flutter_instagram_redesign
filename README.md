@@ -11,10 +11,10 @@ For making this lovely [design.](https://dribbble.com/shots/14057207-Instagram-R
 
 ## Results
 
-![design_1](./assets/app_ss/1.jpeg)
-![design_2](./assets/app_ss/2.jpeg)
-![design_3](./assets/app_ss/3.jpeg)
-![design_4](./assets/app_ss/4.jpeg)
+<img src="./assets/app_ss/1.jpeg" height="760">
+<img src="./assets/app_ss/2.jpeg" height="760">
+<img src="./assets/app_ss/3.jpeg" height="760">
+<img src="./assets/app_ss/4.jpeg" height="760">
 
 ## Support
 
