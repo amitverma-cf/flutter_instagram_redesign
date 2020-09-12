@@ -1,16 +1,30 @@
-# instagram_redesign
+# Instagram Redesigned Flutter App
 
-A new Flutter project.
+A Redesigned Instagram UI using Flutter.
 
-## Getting Started
+## Design Inspiration
 
-This project is a starting point for a Flutter application.
+All design credit goes to [Manuel Rovira](https://dribbble.com/ManuelRovira) 
+for making this lovely [design.](https://dribbble.com/shots/14057207-Instagram-Redesign-Part-2)
 
-A few resources to get you started if this is your first Flutter project:
+![Instagram Design](https://static.dribbble.com/users/1612753/screenshots/14057207/media/d7313500e0759e5da3198a220d483ea1.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Results
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+<img src="./assets/app_ss/1.jpeg" height="560" hspace="30">
+<img src="./assets/app_ss/2.jpeg" height="560" hspace="30">
+<br><br><br>
+<img src="./assets/app_ss/3.jpeg" height="560" hspace="30">
+<img src="./assets/app_ss/4.jpeg" height="560" hspace="30">
+</p>
+
+## Support
+
+![Amit Verma](https://github.com/amitverma-cf) <br>
+[Instagram](https://www.instagram.com/ava.amitverma/) <br>
+[LinkedIn](https://www.linkedin.com/in/amit-verma-962b12197/)
+
+> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
+>
+> * UPI ID - av.amit2040fw@okaxis
