@@ -21,8 +21,6 @@ for making this lovely [design.](https://dribbble.com/shots/14057207-Instagram-R
 
 ## Support
 
-### Created & Maintained By
-
 ![Amit Verma](https://github.com/amitverma-cf)
 ![Instagram](https://www.instagram.com/ava.amitverma/)  
 ![LinkedIn](https://www.linkedin.com/in/amit-verma-962b12197/)
