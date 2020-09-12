@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Redesign Instagram ',
+      title: 'Flutter Instagram Redesign',
       theme: ThemeData(
         textTheme: GoogleFonts.muliTextTheme(),
         primarySwatch: Colors.pink,
