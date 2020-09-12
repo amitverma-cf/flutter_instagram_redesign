@@ -12,11 +12,11 @@ for making this lovely [design.](https://dribbble.com/shots/14057207-Instagram-R
 ## Results
 
 <p align="center">
-<img src="./assets/app_ss/1.jpeg" height="560" hspace="100">
-<img src="./assets/app_ss/2.jpeg" height="560" hspace="100">
+<img src="./assets/app_ss/1.jpeg" height="560" hspace="30">
+<img src="./assets/app_ss/2.jpeg" height="560" hspace="30">
 <br>
-<img src="./assets/app_ss/3.jpeg" height="560" hspace="100">
-<img src="./assets/app_ss/4.jpeg" height="560" hspace="100">
+<img src="./assets/app_ss/3.jpeg" height="560" hspace="30">
+<img src="./assets/app_ss/4.jpeg" height="560" hspace="30">
 </p>
 
 ## Support
