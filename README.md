@@ -1,7 +1,7 @@
 # Instagram Redesigned Flutter App
 
-A Redesigned Instagram UI using Flutter.
-![Check the video recording of the app here](https://www.instagram.com/p/CFpJmgyDcu3)
+A Redesigned Instagram UI using Flutter. <br>
+[Check the video recording of the app here](https://www.instagram.com/p/CFpJmgyDcu3)
 
 ## Design Inspiration
 
