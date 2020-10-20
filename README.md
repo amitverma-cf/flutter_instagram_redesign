@@ -14,8 +14,10 @@ for making this lovely [design.](https://dribbble.com/shots/14057207-Instagram-R
 
 ![Result](https://raw.githubusercontent.com/amitverma-cf/flutter_instagram_redesign/stable/assets/app_ss/120241234-335008197936766-667811.gif)
 
+
+## Screenshots
+
 <p align="center">
-<br><br>
 <img src="./assets/app_ss/1.jpeg" height="560" hspace="30">
 <img src="./assets/app_ss/2.jpeg" height="560" hspace="30">
 <br><br><br>
